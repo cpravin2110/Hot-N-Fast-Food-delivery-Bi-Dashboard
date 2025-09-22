@@ -18,9 +18,11 @@ Payment method distribution
 
 Delivery status performance.
 
+
 🛠️ Data Cleaning & Transformation using Power Query
 
 🔢 Custom DAX Calculations for KPIs and measures
+
 
 
 🛠️ Tools & Technologies
@@ -30,6 +32,7 @@ Power BI
 Power Query (ETL & Data Cleaning)
 
 DAX (Custom Measures & Calculations)
+
 
 
 
@@ -44,6 +47,7 @@ Delivery success rate: 94%.
 February had the highest number of transactions.
 
 
+
 🤝 Connect
 
-If you found this project useful, feel free to ⭐ star the repo and connect with me on [LinkedIn](www.linkedin.com/in/iampravinchavan) 
+If you found this project useful, feel free to ⭐ star the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/iampravinchavan/) 
