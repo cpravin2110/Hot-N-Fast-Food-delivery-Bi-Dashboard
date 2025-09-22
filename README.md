@@ -46,5 +46,4 @@ February had the highest number of transactions.
 
 🤝 Connect
 
-If you found this project useful, feel free to ⭐ star the repo and connect with me on [LinkedIn](www.linkedin.com/in/
-iampravinchavan) 
+If you found this project useful, feel free to ⭐ star the repo and connect with me on [LinkedIn](www.linkedin.com/in/iampravinchavan) 
