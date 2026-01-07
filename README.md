@@ -1,8 +1,14 @@
 # Hot-N-Fast-Food-delivery-Bi-Dashboard
 
+---
+
 📌 Project Overview
 
 This project is a Food Delivery Analysis Dashboard built in Power BI to analyze sales, transactions, and customer preferences. The goal was to transform raw food delivery data into actionable insights using Power Query and DAX formulas.
+
+
+---
+
 
 ⚡ Key Features
 
@@ -18,12 +24,14 @@ Payment method distribution
 
 Delivery status performance.
 
+---
+
 
 🛠️ Data Cleaning & Transformation using Power Query
 
 🔢 Custom DAX Calculations for KPIs and measures
 
-
+---
 
 🛠️ Tools & Technologies
 
@@ -34,7 +42,7 @@ Power Query (ETL & Data Cleaning)
 DAX (Custom Measures & Calculations)
 
 
-
+---
 
 📈 Insights
 
@@ -46,7 +54,7 @@ Delivery success rate: 94%.
 
 February had the highest number of transactions.
 
-
+---
 
 🤝 Connect
 
