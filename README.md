@@ -1,8 +1,13 @@
 # Hot-N-Fast-Food-delivery-Bi-Dashboard
 
+  ![Dashboard Preview](Screenshot%202025-09-17%20181224.png)
+
+   ![Dashboard Preview](Screenshot%202025-09-18%20134223.png)
+
+
 ---
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project is a Food Delivery Analysis Dashboard built in Power BI to analyze sales, transactions, and customer preferences. The goal was to transform raw food delivery data into actionable insights using Power Query and DAX formulas.
 
@@ -10,52 +15,52 @@ This project is a Food Delivery Analysis Dashboard built in Power BI to analyze 
 ---
 
 
-⚡ Key Features
+## ⚡ Key Features
 
-📊 Interactive Dashboard with visuals for:
+**📊 Interactive Dashboard with visuals for:**
 
-Total Quantity, Transactions, and Average Quantity
+⁘ Total Quantity, Transactions, and Average Quantity
 
-Monthly sales & transaction trends
+⁘ Monthly sales & transaction trends
 
-Popular food items (Top choice: 🥟 Samosa)
+⁘ Popular food items (Top choice: 🥟 Samosa)
 
-Payment method distribution
+⁘ Payment method distribution
 
-Delivery status performance.
-
----
-
-
-🛠️ Data Cleaning & Transformation using Power Query
-
-🔢 Custom DAX Calculations for KPIs and measures
+⁘ Delivery status performance.
 
 ---
 
-🛠️ Tools & Technologies
 
-Power BI
+### 🛠️ Data Cleaning & Transformation using Power Query
 
-Power Query (ETL & Data Cleaning)
+**🔢 Custom DAX Calculations for KPIs and measures**
 
-DAX (Custom Measures & Calculations)
+---
+
+## 🛠️ Tools & Technologies
+
+● Power BI
+
+● Power Query (ETL & Data Cleaning)
+
+● DAX (Custom Measures & Calculations)
 
 
 ---
 
-📈 Insights
+## 📈 Insights
 
-Samosa is the most ordered item 🥟 (660 orders).
+» Samosa is the most ordered item 🥟 (660 orders).
 
-COD was the primary payment method.
+» COD was the primary payment method.
 
-Delivery success rate: 94%.
+» Delivery success rate: 94%.
 
-February had the highest number of transactions.
+» February had the highest number of transactions.
 
 ---
 
-🤝 Connect
+### 🤝 Connect
 
 If you found this project useful, feel free to ⭐ star the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/iampravinchavan/) 
