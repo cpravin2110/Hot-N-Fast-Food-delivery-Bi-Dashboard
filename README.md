@@ -1,4 +1,4 @@
-# 🍔🍕Hot-N-Fast-Food-delivery-Bi-Dashboard
+# 🍔 Hot-N-Fast-Food-delivery-Bi-Dashboard
 
  ![Dashboard Preview](https://github.com/cpravin2110/Hot-N-Fast-Food-delivery-Bi-Dashboard/blob/3cf12b110c7b1112871c3fb61c6ad1f9396cef48/Images/Screenshot%202025-09-17%20181224.png)
 ![Dashboard Preview](https://github.com/cpravin2110/Hot-N-Fast-Food-delivery-Bi-Dashboard/blob/3cf12b110c7b1112871c3fb61c6ad1f9396cef48/Images/Screenshot%202025-09-18%20134223.png)
