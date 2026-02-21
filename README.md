@@ -9,55 +9,55 @@
 
 ## 📌 Project Overview
 
-This project is a Food Delivery Analysis Dashboard built in Power BI to analyze sales, transactions, and customer preferences. The goal was to transform raw food delivery data into actionable insights using Power Query and DAX formulas.
+This project is a Food Delivery Analysis Dashboard built in Power BI to analyze order quantity, transactions, and customer preferences. The dashboard transforms raw delivery data into meaningful insights using Power Query for data cleaning and DAX for KPI calculations.
 
+The analysis reveals 15K total quantity and 2.75K transactions, with an average quantity of 5.50 per order, providing a clear overview of ordering behavior and operational performance. Interactive filters allow dynamic analysis across months, payment methods, and customer segments.
 
 ---
-
 
 ## ⚡ Key Features
 
-**📊 Interactive Dashboard with visuals for:**
+**📊 Interactive dashboard with visuals for:**
 
-⁘ Total Quantity, Transactions, and Average Quantity
+⁘ Total Quantity, Transactions, and Average Quantity tracking
 
-⁘ Monthly sales & transaction trends
+⁘ Monthly transaction trends and performance comparison
 
-⁘ Popular food items (Top choice: 🥟 Samosa)
+⁘ Popular food items analysis (Top item: 🥟 Samosa – 2.4K orders)
 
-⁘ Payment method distribution
+⁘ Payment method distribution and usage trends
 
-⁘ Delivery status performance.
+⁘ Delivery status performance and success rate monitoring
 
----
+## 🛠️ Data Cleaning & Transformation using Power Query
 
-
-### 🛠️ Data Cleaning & Transformation using Power Query
-
-**🔢 Custom DAX Calculations for KPIs and measures**
+🔢 Custom DAX Calculations for KPIs and performance measures
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 ● Power BI
-
 ● Power Query (ETL & Data Cleaning)
-
 ● DAX (Custom Measures & Calculations)
-
 
 ---
 
 ## 📈 Insights
 
-» Samosa is the most ordered item 🥟 (660 orders).
+» 🥟 Samosa is the top-selling item, followed by Butter Chicken and Chole Bhature, showing strong demand for fast food items.
 
-» COD was the primary payment method.
+» 💳 UPI is the most preferred payment method (1.7K+ transactions), indicating high adoption of digital payments.
 
-» Delivery success rate: 94%.
+» 🚚 Delivery success rate is 94%, with low cancellations (~6%), reflecting efficient delivery operations.
 
-» February had the highest number of transactions.
+» 📅 February recorded the highest transactions (792), highlighting peak order periods and seasonal demand trends.
+
+---
+
+## 🚀 Conclusion
+
+This dashboard provides a comprehensive view of food delivery performance, customer preferences, and operational efficiency. The insights help identify top-selling items, preferred payment methods, and peak order periods, enabling businesses to optimize menu strategy, improve delivery performance, and make data-driven decisions to enhance overall service efficiency.
 
 ---
 
